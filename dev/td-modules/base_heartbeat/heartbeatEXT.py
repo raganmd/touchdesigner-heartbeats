@@ -3,7 +3,7 @@ Matthew Ragan | matthewragan.com
 '''
 
 
-class Template:
+class Heartbeat:
 	'''
 		This is a sample class.
 
