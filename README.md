@@ -11,7 +11,7 @@
 * macOS
 
 ## Dependencies
-* NA
+* [touchdesigner-com](https://github.com/raganmd/touchdesigner-com)
 
 ## Summary
 
